@@ -1,0 +1,9 @@
+.custom-app-bar{
+    background-color: white !important;
+    color: black !important;
+}
+
+.custom-app-bar > .custom-typography{
+    font-size: 15px;
+    margin-left: 25px;
+}
